@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Simple',
+  title: 'Foxai | Best Open source OpenAI Alternative',
   description: 'Page description',
 }
 
@@ -13,10 +13,10 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Features />
-      <FeaturesBlocks />
-      <Testimonials />
-      <Newsletter />
+      {/* <Features /> */}
+      {/* <FeaturesBlocks /> */}
+      {/* <Testimonials /> */}
+      {/* <Newsletter /> */}
     </>
   )
 }
